@@ -14,7 +14,7 @@ https://www.bilibili.com/video/BV1Fv411P7Vc
 3. 一些活塞
 4. 一些红石火把
 5. 黏液块若干
-
+ 
 **空手**右键基岩启动 mod（注意要空手）
 
 启动后，左键基岩，mod 会自动破除基岩。
